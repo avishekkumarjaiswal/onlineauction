@@ -1,5 +1,4 @@
-import streamlit as st
-import sqlite3
-from datetime import datetime
-from streamlit_autorefresh import st_autorefresh
-import pandas as pd
+streamlit==1.32.2
+streamlit-autorefresh==0.4.1
+pandas==2.1.4
+sqlite3==2.6.0
