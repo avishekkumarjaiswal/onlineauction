@@ -1,4 +1,0 @@
-streamlit==1.32.2
-streamlit-autorefresh==0.4.1
-pandas==2.1.4
-sqlite3==2.6.0
